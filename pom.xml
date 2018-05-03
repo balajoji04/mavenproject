@@ -114,4 +114,16 @@
 		</plugins>
 
 	</build>
+	<distributionManagement>
+		<repository>
+			<id>deployment</id>
+			<name>Internal Release</name>
+			<url>http://18.216.135.30:8081/nexus/content/repositories/1.1/</url>
+		</repository>
+		<snapshotRepository>
+			<id>deployment</id>
+			<name>Internal Snapshot Releases</name>
+			<url>http://18.216.135.30:8081/nexus/content/repositories/1/</url>
+		</snapshotRepository>
+	<distributionManagement>
 </project>
