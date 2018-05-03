@@ -125,5 +125,5 @@
 			<name>Internal Snapshot Releases</name>
 			<url>http://18.216.135.30:8081/nexus/content/repositories/1/</url>
 		</snapshotRepository>
-	<distributionManagement>
+	</distributionManagement>
 </project>
