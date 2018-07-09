@@ -114,12 +114,5 @@
 		</plugins>
 
 	</build>
-	<distributionManagement>
-		<repository>
-			<id>release2</id>
-			<name>ReleaseMaven</name>
-			<url>http://18.220.32.25:8081/nexus/content/repositories/release2/</url>
-		</repository>
-		
-	</distributionManagement>
+	
 </project>
